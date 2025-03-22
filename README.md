@@ -33,7 +33,7 @@ I'm a Fullstack Developer with over 4 years of experience in IT.
 👉 [Persana.ai](https://persana.ai/)
 > Description: Persana AI is an advanced AI-powered platform designed to streamline sales and marketing workflows. It automates lead research, personalization, and outreach, helping teams boost engagement and conversions effortlessly. With deep data insights and smart automation, Persana AI enhances efficiency and drives business growth.
 
-👉 [promap.ai](https://www.promap.ai/)
+👉 [Promap.ai](https://www.promap.ai/)
 > Description: ​Promap.ai is an AI-driven recruitment platform that streamlines the hiring process for technical roles. It autonomously sources candidates, conducts in-depth skill-based interviews using advanced conversational AI, and provides data-backed hiring recommendations, enabling companies to build world-class teams efficiently. 
 
 
