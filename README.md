@@ -30,6 +30,10 @@ I'm a Fullstack Developer with over 4 years of experience in IT.
 👉 [Nynx.org](https://nynxcreatives.com/) 
 > Description: As a full stack developer, I was tasked with developing a freelancing platform on Upwork, a leading online marketplace for freelancers and clients The goal was to create a robust and user-friendly platform that would enable efficient gig management, virtual workspace, task management, job posting, chat modules, notifications, client and seller modes, client and seller dashboards, feedback module, and integration of payment gateways such as PayPal and Stripe.
 
+👉 [Persana.ai]([https://nynxcreatives.com](https://persana.ai/)/) 
+> Description: Persana AI is an advanced AI-powered platform designed to streamline sales and marketing workflows. It automates lead research, personalization, and outreach, helping teams boost engagement and conversions effortlessly. With deep data insights and smart automation, Persana AI enhances efficiency and drives business growth.
+
+
 
 I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
 
