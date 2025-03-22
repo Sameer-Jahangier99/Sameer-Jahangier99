@@ -33,6 +33,8 @@ I'm a Fullstack Developer with over 4 years of experience in IT.
 👉 [Persana.ai](https://persana.ai/)
 > Description: Persana AI is an advanced AI-powered platform designed to streamline sales and marketing workflows. It automates lead research, personalization, and outreach, helping teams boost engagement and conversions effortlessly. With deep data insights and smart automation, Persana AI enhances efficiency and drives business growth.
 
+👉 [promap.ai](https://www.promap.ai/)
+> Description: ​Promap.ai is an AI-driven recruitment platform that streamlines the hiring process for technical roles. It autonomously sources candidates, conducts in-depth skill-based interviews using advanced conversational AI, and provides data-backed hiring recommendations, enabling companies to build world-class teams efficiently. 
 
 
 I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
